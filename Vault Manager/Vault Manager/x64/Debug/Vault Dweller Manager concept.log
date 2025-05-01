@@ -1,0 +1,7 @@
+﻿  utility.c
+  functions.c
+  main.c
+  menu.c
+  Generating Code...
+C:\Users\filip\source\repos\Vault Manager\functions.c(175,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vault Dweller Manager concept.vcxproj -> C:\Users\filip\source\repos\Vault Manager\x64\Debug\Vault Manager.exe
