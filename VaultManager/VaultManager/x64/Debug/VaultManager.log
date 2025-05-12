@@ -1,0 +1,5 @@
+﻿  functions.c
+  main.c
+C:\Users\filip\source\repos\VaultManager\functions.c(352,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  VaultManager.vcxproj -> C:\Users\filip\source\repos\VaultManager\x64\Debug\VaultManager.exe
