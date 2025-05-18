@@ -1,0 +1,8 @@
+﻿  functions.c
+C:\Users\filip\source\repos\Vault-Manager\VaultManager\functions.c(179,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.c
+  menu.c
+  secondaryFunctions.c
+C:\Users\filip\source\repos\Vault-Manager\VaultManager\secondaryFunctions.c(27,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  VaultManager.vcxproj -> C:\Users\filip\Source\Repos\Vault-Manager\VaultManager\x64\Debug\VaultManager.exe
