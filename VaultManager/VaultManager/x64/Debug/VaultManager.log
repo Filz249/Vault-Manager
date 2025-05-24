@@ -1,3 +1,0 @@
-﻿  functions.c
-C:\Users\filip\source\repos\VaultManager\VaultManager\functions.c(198,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  VaultManager.vcxproj -> C:\Users\filip\source\repos\VaultManager\VaultManager\x64\Debug\VaultManager.exe
