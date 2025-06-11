@@ -1,0 +1,3 @@
+﻿  utility.c
+C:\Users\filip\source\repos\VaultManager\VaultManager\utility.c(264,22): warning C4013: 'isalpha' undefined; assuming extern returning int
+  VaultManager.vcxproj -> C:\Users\filip\source\repos\VaultManager\VaultManager\x64\Debug\VaultManager.exe
